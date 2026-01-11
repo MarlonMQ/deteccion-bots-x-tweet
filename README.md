@@ -1,12 +1,7 @@
-<object
-  data="paper.pdf"
-  type="application/pdf"
+<iframe
+  src="paper.pdf"
   width="100%"
-  height="1000"
+  height="100%"
+  style="border:none"
   title="Embedded PDF Viewer"
->
-  <p>
-    Your browser does not support PDFs. [Download the PDF
-    document](document.pdf)
-  </p>
-</object>
+></iframe>
