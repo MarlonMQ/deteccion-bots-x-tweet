@@ -1,7 +1,1 @@
-<iframe
-  src="paper.pdf"
-  width="100%"
-  height="100%"
-  style="border:none"
-  title="Embedded PDF Viewer"
-></iframe>
+# [Project Paper (PDF)](./paper.pdf)
